@@ -1,0 +1,7 @@
+[2026-10-17T17:51:13Z] === AST ITERATION 1 START | repo=facebookresearch/hydra sha=9b521d9a ===
+[2026-10-17T17:51:13Z] [iter=1] PHASE START: ast repo=facebookresearch/hydra sha=9b521d9a
+[2026-10-17T17:51:13Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T17:52:59Z] [iter=1] AST chunks built count=1 triples=972068
+[2026-10-17T17:52:59Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/9b521d9a9d1e0b6dd41146d5aa64d844dacc2691/.complete
+[2026-10-17T17:52:59Z] [iter=1] PHASE END: ast elapsed_s=107 elapsed_min=1.8
+[2026-10-17T17:52:59Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
