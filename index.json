@@ -1,0 +1,11 @@
+{
+  "org": "facebookresearch",
+  "repo": "hydra",
+  "versions": [
+    {
+      "commit": "9b521d9a9d1e0b6dd41146d5aa64d844dacc2691",
+      "tag": "",
+      "parsed_at": "2026-10-17T17:54:37.415087+00:00"
+    }
+  ]
+}
